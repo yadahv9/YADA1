@@ -35,7 +35,7 @@ I am a results-driven DevOps and DevSecOps engineer with a strong focus on cloud
 ### 1. **CleverFlux - Inventory Management for Small Businesses**  
 Developed an inventory management system to help small businesses track stock, generate detailed reports, manage their products, and integrate with Salesforce for streamlined customer relationship management (CRM).  
 **Tech:** Python, Django, MySQL, AWS, Salesforce  
-[Explore the Project](https://github.com/HarshavardhanYada/CleverFlux)  
+[Explore the Project](https://preview--smoke-shelf-sentinel.lovable.app/https://github.com/HarshavardhanYada/CleverFlux)  
 
 ### 2. **ShiftClock - Employee Time Tracking & Scheduling App**  
 Built a real-time employee time tracking and scheduling application for businesses. This solution enables businesses to efficiently manage employee shifts, attendance, and hours worked.  
